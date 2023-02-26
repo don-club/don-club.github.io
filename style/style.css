@@ -553,21 +553,12 @@ img:nth-child(4){animation-delay:0}
   
   footer {
     position: absolute;
-  
     bottom: -4288px;
-  
     left: 0;
-  
-    right: 0;
-  
     background: #111;
-  
     height: auto;
-  
     width: 100vw;
-  
     padding-top: 40px;
-  
     color: #fff;
   }
   
